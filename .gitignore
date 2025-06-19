@@ -1,0 +1,71 @@
+# Media files
+*.mp4
+*.avi
+*.mov
+*.wmv
+*.flv
+*.mkv
+*.webm
+
+# Image files (if you want to exclude all images)
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.bmp
+*.tiff
+*.tif
+*.svg
+
+# MATLAB specific files
+*.asv
+*.autosave
+*.mex*
+*.mat
+*.fig
+*.slx.autosave
+
+# Large data files
+*.dat
+*.bin
+# Video files
+*.avi
+*.mp4
+*.mov
+*.wmv
+*.flv
+*.mkv
+*.webm
+
+# Archive files
+*.zip
+*.rar
+*.7z
+*.tar
+*.gz
+
+# Large MATLAB data files
+*.mat
+
+# Image files
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.bmp
+*.tiff
+*.tif
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+*~
+
+# Temporary files
+*.tmp
+*.temp
